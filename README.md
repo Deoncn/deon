@@ -1,7 +1,13 @@
 # X脚本
+
 ![GitHub](https://img.shields.io/github/license/mashape/apistatus.svg)
 [![GitHub stars](https://img.shields.io/github/stars/ToyoDAdoubi/doubi.svg?style=popout&label=Stars)](https://github.com/ToyoDAdoubi/doubi/stargazers)
 [![GitHub forks](https://img.shields.io/github/forks/ToyoDAdoubi/doubi.svg?style=popout&label=Fork)](https://github.com/ToyoDAdoubi/doubi/fork)
+
+## Trojan安装教程
+
+wget -N --no-check-certificate "https://raw.githubusercontent.com/deoncn/deon/master/trojan.sh" && chmod +x trojan.sh && ./trojan.sh
+
 ## 脚本索引
 
 * [***代理相关***](#代理相关)
