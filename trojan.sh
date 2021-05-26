@@ -196,7 +196,7 @@ EOF
 	cd /var/www
 	curl -sS https://getcomposer.org/installer -o composer-setup.php
 	php composer-setup.php --install-dir=/usr/local/bin --filename=composer
-	curl -sL https://deb.nodesource.com/setup_10.x | sudo -E bash -
+	curl -sL https://deb.nodesource.com/setup_16.x | sudo -E bash -
 	apt install -y nodejs
 	git clone https://github.com/trojan-gfw/trojan-panel.git
 	cd trojan-panel
